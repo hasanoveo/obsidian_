@@ -1,0 +1,170 @@
+{
+  "main": {
+    "id": "b6ddcab9d43ba39d",
+    "type": "split",
+    "children": [
+      {
+        "id": "a809aa067d3f14f1",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0b7962b350e4a6e9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Travel/Istanbul.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "f4091a73b32fbcef",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Subhan/27-11-23.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "da14a7905b9b91b0",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "e452d243e61df1df",
+        "type": "leaf",
+        "state": {
+          "type": "file-explorer",
+          "state": {
+            "sortOrder": "alphabetical"
+          }
+        }
+      },
+      {
+        "id": "a39f6a88b41b02d1",
+        "type": "leaf",
+        "state": {
+          "type": "search",
+          "state": {
+            "query": "",
+            "matchingCase": false,
+            "explainSearch": false,
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical"
+          }
+        }
+      },
+      {
+        "id": "f25368147e627493",
+        "type": "leaf",
+        "state": {
+          "type": "tag",
+          "state": {
+            "sortOrder": "frequency",
+            "useHierarchy": true
+          }
+        }
+      },
+      {
+        "id": "025045717a9ff9f1",
+        "type": "leaf",
+        "state": {
+          "type": "bookmarks",
+          "state": {}
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "right": {
+    "id": "abefb48f26b6952f",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "44b157407d596e47",
+        "type": "leaf",
+        "state": {
+          "type": "calendar",
+          "state": {}
+        }
+      },
+      {
+        "id": "bf9b0dea840b6f95",
+        "type": "leaf",
+        "state": {
+          "type": "backlink",
+          "state": {
+            "file": "Subhan/27-11-23.md",
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical",
+            "showSearch": false,
+            "searchQuery": "",
+            "backlinkCollapsed": false,
+            "unlinkedCollapsed": true
+          }
+        }
+      },
+      {
+        "id": "a608994e1e76fed7",
+        "type": "leaf",
+        "state": {
+          "type": "outgoing-link",
+          "state": {
+            "file": "Subhan/27-11-23.md",
+            "linksCollapsed": false,
+            "unlinkedCollapsed": true
+          }
+        }
+      },
+      {
+        "id": "e41604346788e15c",
+        "type": "leaf",
+        "state": {
+          "type": "outline",
+          "state": {
+            "file": "Subhan/27-11-23.md"
+          }
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "periodic-notes:Open today": false
+    }
+  },
+  "active": "e452d243e61df1df",
+  "lastOpenFiles": [
+    "Travel/Istanbul.md",
+    "Subhan/27-11-23.md",
+    "Subhan",
+    ">_/Secret.md",
+    "People and Organization/Elnur Guluyev.md",
+    "Note/24-11-23.md",
+    "Note/23-11-23.md",
+    "Mails/Request for RFO Document on incident during BCP test on November 19.md",
+    "Note/19-11-23.md",
+    "Note/01-07-23.md"
+  ]
+}

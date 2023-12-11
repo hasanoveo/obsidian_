@@ -1,0 +1,166 @@
+{
+  "main": {
+    "id": "05e6ad5e022626a3",
+    "type": "split",
+    "children": [
+      {
+        "id": "4f8da0e86ef38c27",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "bf022cfd3d3ebd8e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "__/Git.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "647358ccb9487a55",
+    "type": "split",
+    "children": [
+      {
+        "id": "141df4d8fdfce65b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4aa28b861b6861b2",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "60f525e4cbef2a46",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "089084a82afa3774",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "59747ea40b14b726",
+    "type": "split",
+    "children": [
+      {
+        "id": "aca6614e1c81b232",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "701e6bbdd46fbb0a",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "__/Git.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "371a3ba8725cfe30",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "__/Git.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "6d07e3364cbfd64e",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "15a36be1bd72347e",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "__/Git.md"
+              }
+            }
+          },
+          {
+            "id": "d46ae09731ae88c7",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "templater-obsidian:Templater": false,
+      "periodic-notes:Open today": false,
+      "obsidian-textgenerator-plugin:Generate Text!": false,
+      "obsidian-textgenerator-plugin:Text Generator: Templates Packages Manager": false
+    }
+  },
+  "active": "bf022cfd3d3ebd8e",
+  "lastOpenFiles": [
+    "__/Secret.md",
+    "__/GPT.md"
+  ]
+}
