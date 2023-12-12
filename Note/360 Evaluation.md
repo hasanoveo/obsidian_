@@ -41,6 +41,9 @@ Level 1 - Recognizes patterns and clarifies situations
 Sees patterns and trends. Identifies missing pieces of information to get the whole picture. Looks beyond the data for alternative solutions. Uses past experience to find solutions to respond to current challenges/issues. Applies practical rules and common sense to identify problems.
 
 
+1.	Уровень 1 - Распознавание закономерностей и уточнение ситуаций: На этом уровне человек способен видеть закономерности и тенденции. Это включает в себя умение идентифицировать отсутствующие части информации для получения полной картины. Человек смотрит за пределы данных, ища альтернативные решения. Также используется прошлый опыт для поиска решений текущих проблем и задач. Применение практических правил и здравого смысла для определения проблем также является ключевым элементом этого уровня.
+
+
 #### Customer Centricity
 Customer Centricity Behavior Rating
 
