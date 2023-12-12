@@ -126,6 +126,11 @@ Respects and accepts what leadership see as important. Gets involved in the team
 Level 3 - Supports Pasha Bank Brand
 Makes choices and sets priorities to meet Pasha Bank needs first. Encourages others to become actively involved in projects/processes/activities. Accepts and truly supports strategic decisions and directions of the bank. Motivates team members to live and own PASHA Bank brand and values.
 
+1.	Уровень 1 - Проявление ответственности: На этом уровне сотрудник проявляет “можно сделать” дух и энтузиазм в работе. Понимает и адаптируется к формальной структуре. Уважает способы выполнения работы в Паша Банке. Одевается и говорит соответственно. Действует в соответствии с ценностями компании. Создает положительный образ и выступает как амбассадор бренда Паша Банк.
+2.	Уровень 2 - Проявление лояльности: На этом уровне сотрудник уважает и принимает то, что руководство считает важным. Участвует в работе команды с целью помощи другим. Продвигает хороший образ Паша Банка. Понимает общую атмосферу и культуру банка.
+3.	Уровень 3 - Поддержка бренда Паша Банк: На этом уровне сотрудник принимает решения и устанавливает приоритеты, чтобы отвечать потребностям Паша Банка в первую очередь. Поощряет других активно участвовать в проектах/процессах/деятельности. Принимает и искренне поддерживает стратегические решения и направления банка. Мотивирует членов команды жить и поддерживать бренд и ценности Паша Банк.
+
+
 
 #### Result Driven
 
@@ -141,12 +146,21 @@ Level 3 - Drives the execution
 Sets challenging objectives that stretch the capacity and performance. Establishes realistic plans and work schedules. Conveys clear expectations for assignments. Makes changes in the current processes/products and in own work methods to improve performance. Deals constructively with mistakes and setbacks.
 
 
+1.	Уровень 1 - Стремление выполнить свою задачу: На этом уровне сотрудник осознает свои обязанности, проявляет желание делать работу лучше, выполняет результаты в срок, выражает свои чувства относительно производительности и выражает разочарование из-за потери времени или неэффективности.
+2.	Уровень 2 - Улучшение производительности/процессов: На этом уровне сотрудник ищет возможности для приобретения новых знаний и навыков, определяет шаги действий, ресурсы и поддержку, необходимые для достижения целей, координирует усилия по планированию с другими подразделениями, выявляет проблемы и вопросы до того, как проекты/планы сойдут с рельсов, находит способы оптимизации и улучшения процессов.
+3.	Уровень 3 - Проведение выполнения: На этом уровне сотрудник устанавливает сложные цели, которые расширяют возможности и производительность, создает реалистичные планы и рабочие графики, четко формулирует ожидания от заданий, вносит изменения в текущие процессы/продукты и в свои методы работы для улучшения производительности, конструктивно относится к ошибкам и неудачам.
+
+
 #### Team Leadership
 
 Team Leadership Behavior Rating
 
 Level 1 - Keeps people informed
 Shares the objectives and operating plans with team. Keeps members focus on immediate tasks. Takes team viewpoints before making decisions. Makes clear to the team how they are expected to behave and what results they are expected to achieve. Monitors performance against objectives regularly.
+
+1.	Уровень 1 - Информирование участников команды: На этом уровне руководитель делится с командой целями и планами работы. Сосредотачивает членов команды на непосредственных задачах. Учитывает точки зрения команды перед принятием решений. Ясно сообщает команде, как они должны вести себя и каких результатов ожидается достичь. Регулярно контролирует выполнение задач в соответствии с поставленными целями.
+
+
 
 #### Teamwork and cooperation
 
@@ -160,5 +174,10 @@ Shares own experience and expertise with colleagues. Expresses thoughts in a con
 
 Level 3 - Involves team members
 Asks team members' opinions regarding the topic. Shares all relevant information with team members. Keeps other team members informed about what is happening. Provide honest, helpful feedback to others on their performance. Encourages people to draw on each other's strengths and experience to work together effectively, within and across teams.
+
+1.	Уровень 1 - Сотрудничество: На этом уровне сотрудник общается с коллегами позитивно и профессионально, понимает разные приоритеты членов команды. Является “хорошим игроком команды”, выполняет свою долю работы, охотно помогает коллегам и держит членов команды в курсе событий.
+2.	Уровень 2 - Поддержка решений команды: Сотрудник делится своим опытом и знаниями с коллегами, выражает свои мысли конструктивно, слушает, что говорят другие во время обсуждений в команде. Показывает уважение к знаниям, навыкам и интеллекту других.
+3.	Уровень 3 - Вовлечение членов команды: На этом уровне сотрудник спрашивает мнение членов команды по обсуждаемой теме, делится всей релевантной информацией с членами команды, держит их в курсе событий. Предоставляет честную, полезную обратную связь по их работе. Поощряет людей использовать сильные стороны и опыт друг друга для эффективной совместной работы внутри команды и между командами.
+
 
 
